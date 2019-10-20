@@ -9,6 +9,14 @@
     <link href="CSS/practice2.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-    
+    <header>头部</header>
+    <div>
+    <article class="main">
+        <div class="left">左</div>
+        <div class="right">右</div>
+        <div class="center">中</div>
+    </article>
+    </div>
+    <footer>底部</footer>
 </body>
 </html>

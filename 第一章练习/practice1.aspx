@@ -11,11 +11,9 @@
 <body>
     <div>
         <header>网页头部</header>
-    </div>
-    <div>
+
         <article>网页主体部分</article>
-    </div>
-    <div>
+
         <footer>网页底部</footer>
     </div>
 </body>

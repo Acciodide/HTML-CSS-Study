@@ -1,3 +1,37 @@
 ﻿body {
     font: bold large;
 }
+
+.main{
+    height:400px;
+}
+
+header {
+    text-align: center;
+    background-color:yellow;
+}
+
+.left {
+    float: left;
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+
+.center {
+    background-color: red;
+    height: 400px;
+}
+
+.right {
+    float: right;
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+footer{
+    text-align:center;
+    background-color:yellow;
+}
